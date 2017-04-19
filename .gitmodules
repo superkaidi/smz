@@ -1,0 +1,3 @@
+[submodule "smz"]
+	path = smz
+	url = https://github.com/superkaidi/smz.git
